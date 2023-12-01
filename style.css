@@ -17,6 +17,7 @@ section {
     align-items: center;
     justify-content: center;
     color: #fff;
+    perspective: 1000px;
 }
 
 section::before {
