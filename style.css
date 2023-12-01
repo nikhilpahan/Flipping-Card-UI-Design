@@ -104,3 +104,32 @@ h5.number{
 h5.name{
     margin-top: 20px;
 }
+
+.card.back-face{
+    border: none;
+    padding: 15px 25px 25px 25px;
+}
+
+
+.card.back-face .h6{
+    font-size: 8px;
+}
+
+.card.back-face .magnetic-strip{
+    position: absolute;
+    top: 40px;
+    left: 0;
+    height: 45px;
+    width: 100%;
+    background: #000;
+}
+
+
+.card.back-face .signature{
+    margin-top: 80px;
+    height: 40px;
+    width: 85%;
+    border-radius: 6px;
+    background-color: #fff;
+
+}
